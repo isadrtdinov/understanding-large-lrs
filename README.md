@@ -3,7 +3,7 @@
 This repo is the official source code of NeurIPS-2024 paper:
 
 **Where Do Large Learning Rates Lead Us?** \
-By [Ildus Sadrtdinov](https://scholar.google.com/citations?user=XhqNegUAAAAJ&hl=en)\*,
+By [Ildus Sadrtdinov](https://isadrtdinov.github.io/)\*,
 [Maxim Kodryan](https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en)\*,
 [Eduard Pokonechny](https://scholar.google.com/citations?user=lvAKVn4AAAAJ&hl=en)\*,
 [Ekaterina Lobacheva](https://tipt0p.github.io/)†
