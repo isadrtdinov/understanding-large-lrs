@@ -6,8 +6,8 @@ This repo is the official source code of NeurIPS-2024 paper:
 By [Ildus Sadrtdinov](https://isadrtdinov.github.io/)\*,
 [Maxim Kodryan](https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en)\*,
 [Eduard Pokonechny](https://scholar.google.com/citations?user=lvAKVn4AAAAJ&hl=en)\*,
-[Ekaterina Lobacheva](https://tipt0p.github.io/)†
-[Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en)†,
+[Ekaterina Lobacheva](https://tipt0p.github.io/)†,
+[Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en)†
 
 \* &mdash; equal contribution; † &mdash; shared senior authorship
 
