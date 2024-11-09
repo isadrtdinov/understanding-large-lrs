@@ -31,3 +31,4 @@ Conversely, using initial LRs that are too large fails to detect a basin with go
 ## Code
 
 - [Synthetic example](https://github.com/isadrtdinov/understanding-large-lrs/tree/main/synthetic_example)
+- [ViT for CIFAR-10/100](https://github.com/isadrtdinov/understanding-large-lrs/tree/main/vision_transformer)
