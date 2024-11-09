@@ -1,3 +1,5 @@
+# Synthetic feature learning example
+
 ## Requirements
 
 The following list of libraries is required:
