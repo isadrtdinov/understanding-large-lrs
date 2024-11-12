@@ -11,7 +11,7 @@ By [Ildus Sadrtdinov](https://isadrtdinov.github.io/)\*,
 
 \* &mdash; equal contribution; † &mdash; shared senior authorship
 
-[arXiv](https://arxiv.org/abs/2410.22113) / OpenReview: TBA / Poster & video: TBA
+[arXiv](https://arxiv.org/abs/2410.22113) / [OpenReview](https://openreview.net/forum?id=G5lMFOtFHa) / Poster & video: TBA
 
 ## Abstract
 
