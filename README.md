@@ -32,3 +32,16 @@ Conversely, using initial LRs that are too large fails to detect a basin with go
 
 - [Synthetic example](https://github.com/isadrtdinov/understanding-large-lrs/tree/main/synthetic_example)
 - [ViT for CIFAR-10/100](https://github.com/isadrtdinov/understanding-large-lrs/tree/main/vision_transformer)
+
+## Citation
+
+If you found this code useful, please cite our paper:
+
+```
+@inproceedings{sadrtdinov2024where,
+    title={Where Do Large Learning Rates Lead Us?},
+    author={Ildus Sadrtdinov and Maxim Kodryan and Eduard Pokonechny and Ekaterina Lobacheva and Dmitry Vetrov},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
+    year={2024},
+}
+```
