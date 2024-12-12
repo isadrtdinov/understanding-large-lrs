@@ -11,7 +11,8 @@ By [Ildus Sadrtdinov](https://isadrtdinov.github.io/)\*,
 
 \* &mdash; equal contribution; † &mdash; shared senior authorship
 
-[arXiv](https://arxiv.org/abs/2410.22113) / [OpenReview](https://openreview.net/forum?id=G5lMFOtFHa) / Poster & video: TBA
+[arXiv](https://arxiv.org/abs/2410.22113) / [OpenReview](https://openreview.net/forum?id=G5lMFOtFHa) / [Poster & video](https://neurips.cc/virtual/2024/poster/95929) /
+[X thread](https://x.com/KateLobacheva/status/1866371463487631859)
 
 ## Abstract
 
