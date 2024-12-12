@@ -17,7 +17,7 @@ By [Ildus Sadrtdinov](https://isadrtdinov.github.io/)\*,
 ## Abstract
 
 <div align="justify">
-<img align="right" width=35% src="logo.jpg" />
+<img align="right" width=42% src="logo.jpg" />
 It is generally accepted that starting neural networks training with large learning rates (LRs) improves generalization.
 Following a line of research devoted to understanding this effect, we conduct an empirical study in a controlled setting
 focusing on two questions: 1) how large an initial LR is required for obtaining optimal quality, and
